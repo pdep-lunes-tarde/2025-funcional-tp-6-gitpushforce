@@ -11,16 +11,16 @@
 
 ## Equipo
 
-- Nombre del grupo
+- gitpushforce
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+Integrantes:
+- Legajo: **222.158-5** 
+- Nombre: **Juan Manuel Bravo**
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: **213.920-0** 
+- Nombre: **Hernán Agustín Muñiz**
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+
 
 
 ## El enunciado
